@@ -5,7 +5,7 @@
 - 💞️ My special interests are: Quantum Computers, Quantum Consciousness, Mindfulness, and Spirituality.
 - 📫 You can always reach me at: avadhoot.dandekar@gmail.com or avadhoot@bettermanagenow.com.
 
-> ### “The computer code makes the computers conscious. They are moving towards Artificial Consciousness. And the code of Mindfulness makes the human beings more conscious, which may lead them to the Supreme Consciousness.” Avadhoot Dandekar
+> ### “The computer code makes the computers conscious. They are moving towards Artificial Consciousness. And the code of Mindfulness makes the human beings more conscious, which may lead them to the Supreme Consciousness.” [Avadhoot Dandekar](https://www.avadhoot.me/p/avadhoot-dandekar.html)
 
 <!---
 betterify/betterify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
