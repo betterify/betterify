@@ -4,7 +4,7 @@
 - 💡 It is an open source project @github.com/betterify-in/andromeda-hugo.
 - 🌱 I’m learning Github, Hugo, Astro, and Svelte. I am on the learning path of a new Stack called the Jamstack.
 - 💞️ I’m looking to collaborate on SSGs and Jamstack. 
-- 💞️ My special interests are Quantum Computers, Quantum Consciousness, Mindfulness, and Spirituality.
+- 💞️ My special interests are **Quantum Computers, Quantum Consciousness, Mindfulness, and Spirituality**.
 - 💡 Do I have a goal when it comes to Software Development? Oh, yes. My learning curve seems to be very challenging. I wish to move from No Stack to Jamstack to Full Stack!!
 - 📫 You can always reach me at: avadhoot.dandekar@gmail.com.
 
