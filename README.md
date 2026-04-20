@@ -10,10 +10,10 @@
 - 🌱 I’m learning GitHub, Hugo, Astro, and Svelte. I am on the learning path of a new Stack called the Jamstack.
 - 💞️ I’m looking to collaborate on SSGs and Jamstack. 
 - 💞️ My special interests are **Quantum Computers, Quantum Consciousness, Mindfulness, and Spirituality**.
-- 💡 <mark>Do I have a goal when it comes to Software Development? Oh, yes. My learning curve seems to be very challenging. I wish to move from No Stack to Jamstack to Full Stack!!</mark>
+- 💡 <mark>I have a goal in Software Development. Yes, my learning curve is very challenging. I wish to move from No Stack to Jamstack to Full Stack.</mark>
 - 📫 You can always reach me at: avadhoot.dandekar@gmail.com.
 
-> ### “The computer code makes the computers conscious. They are moving towards Artificial Consciousness. And the code of Mindfulness makes human beings more conscious, which may lead them to the Supreme Consciousness.” [Avadhoot Dandekar](https://www.avadhoot.me/p/avadhoot-dandekar.html)
+> ### <mark>“The computer code makes computers conscious. They are moving toward Artificial Consciousness. And the code of Mindfulness makes human beings more conscious, which can lead them to the Supreme Consciousness.” [Avadhoot Dandekar](https://www.avadhoot.me/p/avadhoot-dandekar.html) </mark>
 
 <!---
 betterify/betterify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
